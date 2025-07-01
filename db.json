@@ -1,14 +1,141 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "food": [
+    {
+      "id": 0, 
+      "title": "Beef Burger",
+      "price": 1.2,
+      "category": "CAT_POPULAR",
+      "isFavorite" : true,
+      "reviews": [
+        {
+          "idReviews": "0xr1",
+          "comment": "Very tasty",
+          "rating": 4
+        },
+        {
+          "idReviews": "0xr2",
+          "comment": "Very tasty",
+          "rating": 4
+        },
+        {
+          "idReviews": "0xr3",
+          "comment": "Very tasty",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 2, 
+      "title": "Vegie Burger",
+      "price": 1.2,
+      "category": "CAT_VEGIE",
+      "isFavorite" : true,
+      "reviews": []
+    },
+    {
+      "id": 3, 
+      "title": "Potetos Burger",
+      "price": 1.2,
+      "category": "CAT_VEGIE",
+      "reviews": []
+    },
+    {
+    "id": 4,
+    "title": "Classic Burger",
+    "price": 2.5,
+    "category": "CAT_CLASSIC_BURGER",
+    "reviews": []
+  },
+  {
+    "id": 5,
+    "title": "Cheeseburger",
+    "price": 2.8,
+    "category": "CAT_CHEESEBURGER",
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "title": "Bacon Burger",
+    "price": 3.2,
+    "category": "CAT_BACON_BURGER",
+    "reviews": []
+  },
+  {
+    "id": 7,
+    "title": "Veggie Burger",
+    "price": 2.6,
+    "category": "CAT_VEGGIE_BURGER",
+    "reviews": []
+  },
+  {
+    "id": 8,
+    "title": "Spicy Burger",
+    "price": 3.0,
+    "category": "CAT_SPICY_BURGER",
+    "reviews": []
+  },
+  {
+    "id": 9,
+    "title": "Double Burger",
+    "price": 3.5,
+    "category": "CAT_DOUBLE_BURGER",
+    "reviews": []
+  },
+  {
+    "id": 10,
+    "title": "BBQ Burger",
+    "price": 3.3,
+    "category": "CAT_BBQ_BURGER",
+    "reviews": []
+  },
+  {
+    "id": 11,
+    "title": "Mushroom Burger",
+    "price": 3.0,
+    "category": "CAT_MUSHROOM_BURGER",
+    "reviews": []
+  },
+  {
+    "id": 12,
+    "title": "Fish Burger",
+    "price": 2.9,
+    "category": "CAT_FISH_BURGER",
+    "reviews": []
+  },
+  {
+    "id": 13,
+    "title": "Turkey Burger",
+    "price": 3.1,
+    "category": "CAT_TURKEY_BURGER",
+    "reviews": []
+  },
+  {
+    "id": 14,
+    "title": "Shrimp Taco",
+    "price": 2.9,
+    "category": "CAT_SEAFOOD",
+    "reviews": []
+  },
+  {
+    "id": 15,
+    "title": "Falafel Wrap",
+    "price": 2.5,
+    "category": "CAT_VEGIE",
+    "reviews": []
+  },
+  {
+    "id": 16,
+    "title": "Vegan Salad Bowl",
+    "price": 2.0,
+    "category": "CAT_VEGAN",
+    "reviews": []
+  },
+  {
+    "id": 17,
+    "title": "BBQ Pulled Pork Sandwich",
+    "price": 3.3,
+    "category": "CAT_MEAT",
+    "reviews": []
   }
+  ]
 }
