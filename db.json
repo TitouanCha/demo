@@ -14,13 +14,8 @@
         },
         {
           "idReviews": "0xr2",
-          "comment": "Very tasty",
-          "rating": 4
-        },
-        {
-          "idReviews": "0xr3",
-          "comment": "Very tasty",
-          "rating": 4
+          "comment": "Perfect!",
+          "rating": 5
         }
       ]
     },
@@ -33,18 +28,13 @@
       "reviews": [
         {
           "idReviews": "2xr1",
-          "comment": "Excellent alternative végétarienne, très savoureux !",
-          "rating": 5
+          "comment": "Très bon",
+          "rating": 4
         },
         {
           "idReviews": "2xr2",
-          "comment": "Bon goût mais un peu sec",
+          "comment": "Un peu sec",
           "rating": 3
-        },
-        {
-          "idReviews": "2xr3",
-          "comment": "Parfait pour les végétariens, bien assaisonné",
-          "rating": 4
         }
       ]
     },
@@ -56,17 +46,12 @@
       "reviews": [
         {
           "idReviews": "3xr1",
-          "comment": "Original et délicieux ! Les pommes de terre sont parfaites",
+          "comment": "Original !",
           "rating": 4
         },
         {
           "idReviews": "3xr2",
-          "comment": "Concept intéressant mais manque de sauce",
-          "rating": 3
-        },
-        {
-          "idReviews": "3xr3",
-          "comment": "Très bon rapport qualité-prix",
+          "comment": "Bon prix",
           "rating": 4
         }
       ]
@@ -79,22 +64,12 @@
       "reviews": [
         {
           "idReviews": "4xr1",
-          "comment": "Un classique qui ne déçoit jamais !",
+          "comment": "Classique top",
           "rating": 5
         },
         {
           "idReviews": "4xr2",
-          "comment": "Simple et efficace, comme j'aime",
-          "rating": 4
-        },
-        {
-          "idReviews": "4xr3",
-          "comment": "Bon burger traditionnel",
-          "rating": 4
-        },
-        {
-          "idReviews": "4xr4",
-          "comment": "Viande bien cuite, bun moelleux",
+          "comment": "Simple et bon",
           "rating": 4
         }
       ]
@@ -107,18 +82,13 @@
       "reviews": [
         {
           "idReviews": "5xr1",
-          "comment": "Le fromage fond parfaitement, délicieux !",
+          "comment": "Fromage parfait",
           "rating": 5
         },
         {
           "idReviews": "5xr2",
-          "comment": "Fromage de qualité, je recommande",
+          "comment": "Délicieux",
           "rating": 4
-        },
-        {
-          "idReviews": "5xr3",
-          "comment": "Un peu trop de fromage à mon goût",
-          "rating": 3
         }
       ]
     },
@@ -130,23 +100,13 @@
       "reviews": [
         {
           "idReviews": "6xr1",
-          "comment": "Le bacon est parfaitement croustillant !",
+          "comment": "Bacon croustillant",
           "rating": 5
         },
         {
           "idReviews": "6xr2",
-          "comment": "Excellent, mais un peu gras",
-          "rating": 4
-        },
-        {
-          "idReviews": "6xr3",
-          "comment": "Rapport qualité-prix correct",
+          "comment": "Un peu gras",
           "rating": 3
-        },
-        {
-          "idReviews": "6xr4",
-          "comment": "Le meilleur bacon burger de la ville !",
-          "rating": 5
         }
       ]
     },
@@ -158,18 +118,13 @@
       "reviews": [
         {
           "idReviews": "7xr1",
-          "comment": "Très bon mélange de légumes",
+          "comment": "Healthy",
           "rating": 4
         },
         {
           "idReviews": "7xr2",
-          "comment": "Healthy et savoureux",
+          "comment": "Savoureux",
           "rating": 4
-        },
-        {
-          "idReviews": "7xr3",
-          "comment": "Manque un peu de consistance",
-          "rating": 3
         }
       ]
     },
@@ -181,23 +136,13 @@
       "reviews": [
         {
           "idReviews": "8xr1",
-          "comment": "Parfait niveau épices, j'adore !",
+          "comment": "Parfait épicé",
           "rating": 5
         },
         {
           "idReviews": "8xr2",
-          "comment": "Trop épicé pour moi",
+          "comment": "Trop fort",
           "rating": 2
-        },
-        {
-          "idReviews": "8xr3",
-          "comment": "Bon équilibre entre épices et goût",
-          "rating": 4
-        },
-        {
-          "idReviews": "8xr4",
-          "comment": "Pour les amateurs de sensations fortes !",
-          "rating": 4
         }
       ]
     },
@@ -209,17 +154,12 @@
       "reviews": [
         {
           "idReviews": "9xr1",
-          "comment": "Énorme ! Parfait quand on a très faim",
+          "comment": "Énorme !",
           "rating": 5
         },
         {
           "idReviews": "9xr2",
-          "comment": "Excellent rapport quantité/prix",
-          "rating": 4
-        },
-        {
-          "idReviews": "9xr3",
-          "comment": "Difficile à finir mais délicieux",
+          "comment": "Bon rapport",
           "rating": 4
         }
       ]
@@ -232,23 +172,13 @@
       "reviews": [
         {
           "idReviews": "10xr1",
-          "comment": "Sauce BBQ maison exceptionnelle !",
+          "comment": "Sauce top",
           "rating": 5
         },
         {
           "idReviews": "10xr2",
-          "comment": "Goût fumé authentique",
+          "comment": "Authentique",
           "rating": 4
-        },
-        {
-          "idReviews": "10xr3",
-          "comment": "Un peu trop de sauce",
-          "rating": 3
-        },
-        {
-          "idReviews": "10xr4",
-          "comment": "Le meilleur BBQ burger !",
-          "rating": 5
         }
       ]
     },
@@ -260,18 +190,13 @@
       "reviews": [
         {
           "idReviews": "11xr1",
-          "comment": "Champignons frais et savoureux",
+          "comment": "Champignons frais",
           "rating": 4
         },
         {
           "idReviews": "11xr2",
-          "comment": "Texture intéressante, j'aime beaucoup",
+          "comment": "Texture cool",
           "rating": 4
-        },
-        {
-          "idReviews": "11xr3",
-          "comment": "Pas fan des champignons mais c'était bon",
-          "rating": 3
         }
       ]
     },
@@ -283,23 +208,13 @@
       "reviews": [
         {
           "idReviews": "12xr1",
-          "comment": "Poisson frais et bien cuisiné",
+          "comment": "Poisson frais",
           "rating": 4
         },
         {
           "idReviews": "12xr2",
-          "comment": "Alternative parfaite à la viande",
-          "rating": 4
-        },
-        {
-          "idReviews": "12xr3",
-          "comment": "Sauce tartare délicieuse",
+          "comment": "Sauce tartare",
           "rating": 5
-        },
-        {
-          "idReviews": "12xr4",
-          "comment": "Un peu sec",
-          "rating": 3
         }
       ]
     },
@@ -311,17 +226,12 @@
       "reviews": [
         {
           "idReviews": "13xr1",
-          "comment": "Plus léger que le bœuf, parfait !",
+          "comment": "Plus léger",
           "rating": 4
         },
         {
           "idReviews": "13xr2",
-          "comment": "Dinde de qualité, très bon",
-          "rating": 4
-        },
-        {
-          "idReviews": "13xr3",
-          "comment": "Healthy et savoureux",
+          "comment": "Dinde top",
           "rating": 4
         }
       ]
@@ -334,17 +244,12 @@
       "reviews": [
         {
           "idReviews": "14xr1",
-          "comment": "Crevettes fraîches et épicées, top !",
+          "comment": "Crevettes top",
           "rating": 5
         },
         {
           "idReviews": "14xr2",
-          "comment": "Excellent changement du burger classique",
-          "rating": 4
-        },
-        {
-          "idReviews": "14xr3",
-          "comment": "Portion généreuse",
+          "comment": "Changement cool",
           "rating": 4
         }
       ]
@@ -357,23 +262,13 @@
       "reviews": [
         {
           "idReviews": "15xr1",
-          "comment": "Falafel fait maison, délicieux !",
+          "comment": "Fait maison",
           "rating": 5
         },
         {
           "idReviews": "15xr2",
-          "comment": "Bien assaisonné, très bon",
+          "comment": "Sauce tahini",
           "rating": 4
-        },
-        {
-          "idReviews": "15xr3",
-          "comment": "Sauce tahini parfaite",
-          "rating": 4
-        },
-        {
-          "idReviews": "15xr4",
-          "comment": "Un peu sec sans sauce",
-          "rating": 3
         }
       ]
     },
@@ -385,23 +280,13 @@
       "reviews": [
         {
           "idReviews": "16xr1",
-          "comment": "Frais et coloré, parfait !",
+          "comment": "Frais",
           "rating": 4
         },
         {
           "idReviews": "16xr2",
-          "comment": "Excellent rapport qualité-prix",
-          "rating": 4
-        },
-        {
-          "idReviews": "16xr3",
-          "comment": "Très healthy, je recommande",
+          "comment": "Healthy",
           "rating": 5
-        },
-        {
-          "idReviews": "16xr4",
-          "comment": "Manque un peu de protéines",
-          "rating": 3
         }
       ]
     },
@@ -413,22 +298,12 @@
       "reviews": [
         {
           "idReviews": "17xr1",
-          "comment": "Porc effiloché parfaitement cuit !",
+          "comment": "Porc parfait",
           "rating": 5
         },
         {
           "idReviews": "17xr2",
-          "comment": "Sauce BBQ maison excellente",
-          "rating": 5
-        },
-        {
-          "idReviews": "17xr3",
-          "comment": "Très copieux et savoureux",
-          "rating": 4
-        },
-        {
-          "idReviews": "17xr4",
-          "comment": "Un peu gras mais délicieux",
+          "comment": "Copieux",
           "rating": 4
         }
       ]
