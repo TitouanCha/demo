@@ -7,6 +7,8 @@
       "category": "CAT_POPULAR",
       "isFavorite" : true,
       "description": "Steak de bœuf grillé, salade, tomate, sauce maison",
+      "lat": 48.8566,
+      "lng": 2.3522,
       "reviews": [
         {
           "idReviews": "0xr1",
@@ -27,6 +29,8 @@
       "category": "CAT_VEGIE",
       "isFavorite" : true,
       "description": "Steak végétarien, avocat, tomate, sauce verte",
+      "lat": 48.8738,
+      "lng": 2.2950,
       "reviews": [
         {
           "idReviews": "2xr1",
@@ -46,6 +50,8 @@
       "price": 1.2,
       "category": "CAT_VEGIE",
       "description": "Galette de pommes de terre, fromage, oignons",
+      "lat": 48.8499,
+      "lng": 2.3837,
       "reviews": [
         {
           "idReviews": "3xr1",
@@ -65,6 +71,8 @@
       "price": 2.5,
       "category": "CAT_CLASSIC_BURGER",
       "description": "Bœuf, cheddar, salade, tomate, cornichons",
+      "lat": 48.8606,
+      "lng": 2.3376,
       "reviews": [
         {
           "idReviews": "4xr1",
@@ -84,6 +92,8 @@
       "price": 2.8,
       "category": "CAT_CHEESEBURGER",
       "description": "Steak bœuf, double cheddar, sauce burger",
+      "lat": 48.8683,
+      "lng": 2.3059,
       "reviews": [
         {
           "idReviews": "5xr1",
@@ -103,6 +113,8 @@
       "price": 3.2,
       "category": "CAT_BACON_BURGER",
       "description": "Bœuf, bacon croustillant, cheddar, sauce BBQ",
+      "lat": 48.8448,
+      "lng": 2.3750,
       "reviews": [
         {
           "idReviews": "6xr1",
@@ -122,6 +134,8 @@
       "price": 2.6,
       "category": "CAT_VEGGIE_BURGER",
       "description": "Steak légumes, roquette, tomate, sauce herbes",
+      "lat": 48.8737,
+      "lng": 2.3410,
       "reviews": [
         {
           "idReviews": "7xr1",
@@ -141,6 +155,8 @@
       "price": 3.0,
       "category": "CAT_SPICY_BURGER",
       "description": "Bœuf épicé, jalapeños, fromage, sauce piquante",
+      "lat": 48.8534,
+      "lng": 2.3488,
       "reviews": [
         {
           "idReviews": "8xr1",
@@ -160,6 +176,8 @@
       "price": 3.5,
       "category": "CAT_DOUBLE_BURGER",
       "description": "2 steaks bœuf, double cheddar, sauce spéciale",
+      "lat": 48.8678,
+      "lng": 2.3675,
       "reviews": [
         {
           "idReviews": "9xr1",
@@ -179,6 +197,8 @@
       "price": 3.3,
       "category": "CAT_BBQ_BURGER",
       "description": "Bœuf grillé, oignons caramélisés, sauce BBQ",
+      "lat": 48.8622,
+      "lng": 2.3205,
       "reviews": [
         {
           "idReviews": "10xr1",
@@ -198,6 +218,8 @@
       "price": 3.0,
       "category": "CAT_MUSHROOM_BURGER",
       "description": "Bœuf, champignons sautés, gruyère, sauce crème",
+      "lat": 48.8520,
+      "lng": 2.3844,
       "reviews": [
         {
           "idReviews": "11xr1",
@@ -217,6 +239,8 @@
       "price": 2.9,
       "category": "CAT_FISH_BURGER",
       "description": "Filet de poisson pané, salade, sauce tartare",
+      "lat": 48.8400,
+      "lng": 2.3265,
       "reviews": [
         {
           "idReviews": "12xr1",
@@ -236,6 +260,8 @@
       "price": 3.1,
       "category": "CAT_TURKEY_BURGER",
       "description": "Steak de dinde, avocat, tomate, sauce légère",
+      "lat": 48.8650,
+      "lng": 2.3137,
       "reviews": [
         {
           "idReviews": "13xr1",
@@ -255,6 +281,8 @@
       "price": 2.9,
       "category": "CAT_SEAFOOD",
       "description": "Crevettes épicées, salade, avocat, sauce lime",
+      "lat": 48.8532,
+      "lng": 2.3700,
       "reviews": [
         {
           "idReviews": "14xr1",
@@ -274,6 +302,8 @@
       "price": 2.5,
       "category": "CAT_VEGIE",
       "description": "Falafels maison, crudités, sauce tahini",
+      "lat": 48.8589,
+      "lng": 2.3458,
       "reviews": [
         {
           "idReviews": "15xr1",
@@ -293,6 +323,8 @@
       "price": 2.0,
       "category": "CAT_VEGAN",
       "description": "Salade mixte, quinoa, graines, vinaigrette",
+      "lat": 48.8715,
+      "lng": 2.3518,
       "reviews": [
         {
           "idReviews": "16xr1",
@@ -312,6 +344,8 @@
       "price": 3.3,
       "category": "CAT_MEAT",
       "description": "Porc effiloché, coleslaw, sauce BBQ maison",
+      "lat": 48.8414,
+      "lng": 2.3587,
       "reviews": [
         {
           "idReviews": "17xr1",
